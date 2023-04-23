@@ -1,0 +1,18 @@
+Odgovor: c
+Odgovor: a
+Odgovor: c
+Odgovor: a
+Odgovor: c
+Odgovor: a
+Odgovor: c
+Odgovor: a
+Odgovor: c
+Odgovor: a
+Odgovor: c
+Odgovor: c
+Vreme na pocetok: 2023-04-23 20:24:37
+Ime na studentot: Kiril Prezime: Temelkoski
+Indeks: 188
+Poeni: 20
+Ocena: 5
+Kraj na kviz: 2023-04-23 20:24:48

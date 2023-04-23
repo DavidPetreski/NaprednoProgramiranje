@@ -1,0 +1,18 @@
+Odgovor: b
+Odgovor: a
+Odgovor: b
+Odgovor: a
+Odgovor: a
+Odgovor: a
+Odgovor: a
+Odgovor: c
+Odgovor: a
+Odgovor: b
+Odgovor: a
+Odgovor: b
+Vreme na pocetok: 2023-04-23 20:22:14
+Ime na studentot: David Prezime: Petreski
+Indeks: 963
+Poeni: 120
+Ocena: 10
+Kraj na kviz: 2023-04-23 20:22:43
